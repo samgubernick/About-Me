@@ -28,3 +28,7 @@ C++, Kotlin, Java, Appium, Deque Axe, Windows API, Android NDK, ServiceNow, LLVM
 ## Education
 ### *University of Arizona*, 2007-2011
 * Bachelor of Arts with majors in philosophy and history.
+
+---
+![Sam](sam-2019.jpg "Sam in 2019")
+![Sam](sam-2015.jpg "Sam in 2015")
